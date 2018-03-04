@@ -1,5 +1,6 @@
 1. Features
-	- 
+	-
+
 
 2. Hardware
 	- [ ] Sensor
@@ -7,13 +8,13 @@
 	- [ ] Chassis
 	- [ ] Umgebung/Umwelt
 
+
 3. Software
 	- [ ] Sensor-Interface
 	- [ ] Motor-Interface
 	- [ ] Steuerung
 
+
 4. Part-Liste
-	- 
-	- 
-	- 
+	-
 
