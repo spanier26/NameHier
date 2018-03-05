@@ -1,7 +1,9 @@
 1. Features
+	Zentral
 	- Navigation in 2D Grid/Gitter (Schwarz auf Weiss?)
 	- Bewegliche/Fahrende Plattform
-	- Energieversorgung?
+	
+	- Energieversorgung intern/extern
 	- Kommunikation <-> Standalone?
 
 
