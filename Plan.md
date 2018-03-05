@@ -1,5 +1,8 @@
 1. Features
 	- Navigation in 2D Grid/Gitter (Schwarz auf Weiss?)
+	- Bewegliche/Fahrende Plattform
+	- Energieversorgung?
+	- Kommunikation <-> Standalone?
 
 
 2. Hardware
