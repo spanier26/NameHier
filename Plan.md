@@ -1,5 +1,5 @@
 1. Features
-	-
+	- Navigation in 2D Grid/Gitter (Schwarz auf Weiss?)
 
 
 2. Hardware
