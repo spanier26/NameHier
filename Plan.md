@@ -1,8 +1,10 @@
-1. Features
--Zentral
+1. Features:
+
+1.1. Zentral
 	- Navigation in 2D Grid/Gitter (Schwarz auf Weiss?)
 	- Bewegliche/Fahrende Plattform
 	
+1.2. Neben	
 	- Energieversorgung intern/extern
 	- Kommunikation <-> Standalone?
 
