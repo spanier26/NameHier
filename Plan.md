@@ -1,5 +1,5 @@
 1. Features
-	Zentral
+-Zentral
 	- Navigation in 2D Grid/Gitter (Schwarz auf Weiss?)
 	- Bewegliche/Fahrende Plattform
 	
